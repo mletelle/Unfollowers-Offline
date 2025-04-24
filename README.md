@@ -51,9 +51,9 @@
 5. Tuki
 
 ### Opción B: Script simple en Phyton 
-1. Baja el archivo `comparar_instagram.py`
+1. Baja el archivo `unfollowers.py`
 2. Tenes que tener `followers_1.json` y `following.json` en la misma carpeta que el **.py**
-3. Corre el script: `python3 comparar_instagram.py`
+3. Corre el script: `python3 unfollowers.py`
 4. Listo, te sale todo por consola ¯\_(ツ)_/¯
 
 ---
@@ -62,7 +62,7 @@
 - ¿Se envían mis datos a algún servidor?	
 No. Todo corre localmente en tu computadora.
 - ¿Corre peligro mi informacion o mi cuenta?
-Ninguno, fijate el `comparar_instagram.py`, mas claro echale agua.
+Ninguno, fijate el `unfollowers.py`, mas claro echale agua.
 - ¿Seguro?
 Si.
 - ¿Por qué pide JSON y no CSV/HTML?	
@@ -76,4 +76,5 @@ No.
 
 ## Licencia
 Son un par de lineas en Python o HTML flaco. Usalo, modificá y compartí libremente.
+
 *Dos besitos porque tres es mucha plata*
